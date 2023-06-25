@@ -1,6 +1,10 @@
 
 ## Signals and Systems Theory
 
+## Team Members:
+<a href="https://github.com/Omar-Orensa"><img src="https://avatars.githubusercontent.com/u/131605903?v=4" style="width:20%;"/></a>
+<a href="https://github.com/Amr-Hegazy1"><img src="https://avatars.githubusercontent.com/u/68474553?v=4" style="width:20%;"/></a>
+
 ## (COMM 401 )
 
 ## Lab Project (PIANO)
